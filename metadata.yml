@@ -1,0 +1,7 @@
+name: "Last Commander: Uber Species"
+version: "N5.2.1"
+description: "Since you're the commander from the era of Old Earth, the species that you recruit are superior and machinery is heavily upgraded."
+author: "WarStalkeR"
+id: xpzLastCommanderUberSpecies
+master: piratez
+requiredExtendedVersion: "7.9.8"

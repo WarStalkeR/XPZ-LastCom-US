@@ -1,0 +1,393 @@
+units:
+  - update: STR_HWP_SENTRY_SPIKE
+    stats:
+      tu: 350
+      stamina: 10
+      health: 50
+      bravery: 120
+      reactions: 0
+      firing: 60
+      throwing: 0
+      strength: 60
+      psiStrength: 200
+      psiSkill: 0
+      melee: 0
+      mana: 0
+  - update: STR_TAMED_REAPER
+    stats:
+      tu: 170
+      stamina: 90
+      health: 180
+      bravery: 90
+      reactions: 64
+      firing: 0
+      throwing: 0
+      strength: 110
+      psiStrength: 35
+      psiSkill: 0
+      melee: 85
+      mana: 75
+  - update: STR_MUTANT_REAPER
+    stats:
+      tu: 200
+      stamina: 150
+      health: 240
+      bravery: 100
+      reactions: 78
+      firing: 0
+      throwing: 40
+      strength: 125
+      psiStrength: 50
+      psiSkill: 0
+      melee: 95
+      mana: 90
+  - update: STR_TAMED_BOOMOSAURUS
+    stats:
+      tu: 140
+      stamina: 90
+      health: 300
+      bravery: 110
+      reactions: 14
+      firing: 20
+      throwing: 0
+      strength: 180
+      psiStrength: 20
+      psiSkill: 0
+      melee: 70
+      mana: 50
+  - update: STR_CYCLOPS_CONVERT
+    stats:
+      tu: 100
+      stamina: 100
+      health: 175
+      bravery: 100
+      reactions: 60
+      firing: 30
+      throwing: 30
+      strength: 70
+      psiStrength: 85
+      psiSkill: 0
+      melee: 25
+      mana: 135
+  - update: STR_WEREDOGE
+    stats:
+      tu: 230
+      stamina: 120
+      health: 145
+      bravery: 100
+      reactions: 75
+      firing: 30
+      throwing: 35
+      strength: 110
+      psiStrength: 33
+      psiSkill: 0
+      melee: 95
+      mana: 125
+  - update: STR_PARROT_PIR
+    stats:
+      tu: 250
+      stamina: 80
+      health: 20
+      bravery: 50
+      reactions: 120
+      firing: 0
+      throwing: 10
+      strength: 6
+      psiStrength: 5
+      psiSkill: 0
+      melee: 55
+      mana: 10
+  - update: STR_WHITERABBIT
+    stats:
+      tu: 200
+      stamina: 60
+      health: 35
+      bravery: 40
+      reactions: 60
+      firing: 0
+      throwing: 10
+      strength: 4
+      psiStrength: 70
+      psiSkill: 0
+      melee: 10
+      mana: 50
+  - update: STR_BLACK_CAT
+    stats:
+      tu: 280
+      stamina: 60
+      health: 35
+      bravery: 20
+      reactions: 150
+      firing: 20
+      throwing: 30
+      strength: 5
+      psiStrength: 70
+      psiSkill: 0
+      melee: 60
+      mana: 50
+  - update: STR_ROBO_PARROT_PIR
+    stats:
+      tu: 310
+      stamina: 800
+      health: 100
+      bravery: 110
+      reactions: 100
+      firing: 60
+      throwing: 0
+      strength: 15
+      psiStrength: 0
+      psiSkill: 0
+      melee: 50
+      mana: 0
+  - update: STR_KILLBOT_HERO
+    stats:
+      tu: 220
+      stamina: 250
+      health: 90
+      bravery: 110
+      reactions: 125
+      firing: 150
+      throwing: 90
+      strength: 90
+      psiStrength: 0
+      psiSkill: 0
+      melee: 110
+      mana: 0
+  - update: STR_DOCTOR_X_VAMPIRE
+    stats:
+      tu: 240
+      stamina: 160
+      health: 190
+      bravery: 100
+      reactions: 90
+      firing: 90
+      throwing: 90
+      strength: 60
+      psiStrength: 100
+      psiSkill: 100
+      melee: 90
+      mana: 222
+  - update: STR_DOCTOR_X_KNIGHT_50
+    stats:
+      tu: 180
+      stamina: 120
+      health: 100
+      bravery: 80
+      reactions: 100
+      firing: 130
+      throwing: 90
+      strength: 45
+      psiStrength: 110
+      psiSkill: 60
+      melee: 110
+      mana: 160
+  - update: STR_DOCTOR_X_KNIGHT_60
+    stats:
+      tu: 240
+      stamina: 180
+      health: 160
+      bravery: 110
+      reactions: 130
+      firing: 160
+      throwing: 120
+      strength: 90
+      psiStrength: 140
+      psiSkill: 90
+      melee: 140
+      mana: 200
+  - update: STR_DOCTOR_X_A70
+    stats:
+      tu: 360
+      stamina: 240
+      health: 240
+      bravery: 140
+      reactions: 160
+      firing: 190
+      throwing: 150
+      strength: 120
+      psiStrength: 170
+      psiSkill: 130
+      melee: 170
+      mana: 300
+  - update: STR_RED_MAGE_ASC_30
+    stats:
+      tu: 180
+      stamina: 110
+      health: 100
+      bravery: 90
+      reactions: 90
+      firing: 90
+      throwing: 90
+      strength: 65
+      psiStrength: 100
+      psiSkill: 125
+      melee: 125
+      mana: 200
+  - update: STR_RED_MAGE_RITUAL
+    stats:
+      tu: 10
+      stamina: 100
+      health: 80
+      bravery: 110
+      reactions: 80
+      firing: 80
+      throwing: 80
+      strength: 50
+      psiStrength: 100
+      psiSkill: 100
+      melee: 80
+      mana: 200
+  - update: STR_HOLOGAL
+    stats:
+      tu: 10
+      stamina: 10
+      health: 5
+      bravery: 110
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 5
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+      mana: 5
+  - update: STR_SECURITY_CAMERA
+    stats:
+      tu: 160
+      stamina: 10
+      health: 50
+      bravery: 110
+      reactions: 15
+      firing: 0
+      throwing: 0
+      strength: 10
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+      mana: 0
+  - update: STR_TRUCK_TURRET
+    stats:
+      tu: 275
+      stamina: 5
+      health: 75
+      bravery: 110
+      reactions: 30
+      firing: 50
+      throwing: 0
+      strength: 75
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+      mana: 0
+  - update: STR_BUNKER_TURRET
+    stats:
+      tu: 325
+      stamina: 5
+      health: 250
+      bravery: 120
+      reactions: 60
+      firing: 90
+      throwing: 0
+      strength: 80
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+      mana: 0
+  - update: STR_14MM_LIGHT_TURRET
+    stats:
+      tu: 325
+      stamina: 5
+      health: 125
+      bravery: 120
+      reactions: 45
+      firing: 70
+      throwing: 0
+      strength: 80
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+      mana: 0
+  - update: STR_XTURRET_CANNON
+    stats:
+      tu: 450
+      stamina: 10
+      health: 200
+      bravery: 150
+      reactions: 75
+      firing: 80
+      throwing: 0
+      strength: 100
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+      mana: 0
+  - update: STR_XTURRET_LASER
+    stats:
+      tu: 450
+      stamina: 10
+      health: 250
+      bravery: 150
+      reactions: 90
+      firing: 100
+      throwing: 0
+      strength: 120
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+      mana: 0
+  - update: STR_XTURRET_GAUSS
+    stats:
+      tu: 450
+      stamina: 10
+      health: 500
+      bravery: 200
+      reactions: 150
+      firing: 150
+      throwing: 0
+      strength: 150
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+      mana: 0
+  - update: STR_XTURRET_PLASMA
+    stats:
+      tu: 450
+      stamina: 10
+      health: 400
+      bravery: 175
+      reactions: 135
+      firing: 135
+      throwing: 0
+      strength: 135
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+      mana: 0
+  - update: STR_NTURRET_14MM
+    stats:
+      tu: 200
+      stamina: 10
+      health: 150
+      bravery: 100
+      reactions: 50
+      firing: 50
+      throwing: 0
+      strength: 75
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+      mana: 0
+  - update: STR_NTURRET_PLASMA_GATLING
+    stats:
+      tu: 300
+      stamina: 10
+      health: 250
+      bravery: 100
+      reactions: 75
+      firing: 75
+      throwing: 0
+      strength: 100
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+      mana: 0
